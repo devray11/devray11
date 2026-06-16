@@ -1,3 +1,5 @@
+<!-- https://awesomegithub.web.app/generate -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Dev%20Ray&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full%20Stack%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
 
 
